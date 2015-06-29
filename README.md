@@ -22,8 +22,9 @@ Include js data in your layout
 ```
 
 In controllers you can do:
-
+```
 js_data.whatever = 'test'
+```
 
 In js
 
